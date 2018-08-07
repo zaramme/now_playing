@@ -1,7 +1,7 @@
 # now_playing
-Send now-playing information from iTunes to Slack specified channel.
+Send now-playing track and artist information from iTunes to Slack specified channel.
 
-As written as Apple Script, you can just execute file and be able to start integrate now-playing with iTunes on Your Mac. 
+By written as Apple Script, you just execute file and be able to start integrate now-playing with iTunes on Your Mac. 
 
 # How to use
 
